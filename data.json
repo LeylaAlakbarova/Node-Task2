@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "name": "computer",
+        "price": "700",
+        "amount": "15"
+    },
+    {   
+        "id": "2",
+        "name": "smartphone",
+        "price": "550",
+        "amount": "12"
+        
+    },
+    {
+        "id": "3",
+        "name": "ipad",
+        "price": "800",
+        "amount": "25"
+        
+    },
+    {   
+        "id": "4",
+        "name": "mouse",
+        "price": "25",
+        "amount": "70"
+    }
+]
